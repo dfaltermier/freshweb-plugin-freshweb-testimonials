@@ -4,6 +4,9 @@ This hand-coded plugin creates a 'testimonial' post type whereby testimonials ca
 
 This plugin is currently used on the the [freshwebstudio.com/testimonials](https://freshwebstudio.com/testimonials) website, if you care to see it in action.
 
+Example use:
+![freshwebstudio-testimonials-composite](https://user-images.githubusercontent.com/3323104/40273302-fed7ac76-5b7a-11e8-967d-c4e38d72f5af.png)
+
 # Plugin Ownership
 
 If you're reading this file, it probably means that you are either responsible for the development of this plugin, inquisitive, or you have a lot of time on your hands. Let's assume that you're a web developer and are now responsible for future development or content changes in this plugin. Hopefully, we at [FreshWeb Studio](https://freshwebstudio.com), the developers of this plugin, have created this plugin sufficiently to make your job easier.
