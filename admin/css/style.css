@@ -1,0 +1,46 @@
+/**
+ * CSS for our back-end admin pages.
+ */
+
+/*************************************
+ * Cards Listing Page
+ *************************************/
+/* The carddeck images in the Cards table should be no larger than this. */
+.post-type-fw_testimonials .fw-testimonials-featured-thumbnail {
+    max-width: 75px;
+    height: auto;
+}
+
+/*************************************
+ * Taxonomy Page(s)
+ *************************************/
+/* Hide the 'Parent' form field. We don't want our taxonomies to
+   have sub-taxonomies. */
+.post-type-fw_testimonials .form-field.term-parent-wrap {
+    display: none;
+}
+
+/*************************************
+ * Edit Testimonial Page: Testimonial details meta box.
+ *************************************/
+#fw_testimonial .fw-testimonials-websites {
+    padding: 5px 0 0;
+}
+#fw_testimonial .fw-testimonials-websites th,
+#fw_testimonial .fw-testimonials-websites td {
+    padding: 0 15px 10px 0;
+    vertical-align: top;
+    width: 40%;
+}
+#fw_testimonial .fw-testimonials-websites th {
+    padding-bottom: 5px;
+}
+#fw_testimonial .fw-testimonials-websites td:last-child {
+    width: 20%;
+}
+#fw_testimonial .fw-testimonials-websites input[type="text"] {
+    width: 100%;
+}
+#fw_testimonial .fw-testimonials-websites p.description {
+    margin: 5px 0 10px;
+}
